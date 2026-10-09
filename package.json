@@ -1,0 +1,13 @@
+{
+  "name": "project-soccer-server",
+  "version": "1.0.0",
+  "description": "Servidor multiplayer online do Project Soccer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
